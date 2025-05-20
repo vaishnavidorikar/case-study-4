@@ -1,0 +1,6 @@
+[tool.poetry]
+name = "example"
+version = "1.0.0"
+description = ""
+authors = ["You <you@example.com>"]
+
