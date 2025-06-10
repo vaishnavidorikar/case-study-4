@@ -1,4 +1,4 @@
-requests==2.32.2  # Vulnerable version
+requests==2.32.4  # Vulnerable version
 
 
 
